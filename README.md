@@ -6,6 +6,8 @@
   <strong>Web and mobile developer</strong><br>
 </p>
 
+<br>
+
 <p align="left">Technical Skills: </p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
